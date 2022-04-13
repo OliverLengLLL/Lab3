@@ -20,4 +20,6 @@
 
 ### What are 2 examples of cases where ZenHub (not Git) terminology differs from HFSD terminology that were used in this lab?
 
-- 
+- Name is different. 
+- User Story (HFSD) vs Epic (ZH)
+- Task vs Issue
